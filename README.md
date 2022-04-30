@@ -1,4 +1,4 @@
-CHECKOUT: https://b2jena.github.io/just-relax/
+`CHECKOUT`: https://b2jena.github.io/just-relax/
 ### Breathing App
 
 `A breathing app with a visual director to tell you when to breathe in, hold and breathe out`
