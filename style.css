@@ -109,3 +109,21 @@ body {
         transform: scale(1);
     }
 }
+
+a:link {
+    color: rgb(252, 248, 10);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(252, 248, 10);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: none;
+}
